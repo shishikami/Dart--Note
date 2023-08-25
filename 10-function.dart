@@ -10,7 +10,7 @@
 // }
 
 // 可选参数
-// Type func(Type agr1,[Type] atg2){
+// Type func(Type agr1,[Type arg2]){
 //   ..
 // }
 

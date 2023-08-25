@@ -15,7 +15,7 @@ class myList<T> {
     this.list.add(value);
   }
 
-  List fetList() {
+  List getList() {
     return list;
   }
 }
